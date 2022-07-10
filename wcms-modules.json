@@ -1,0 +1,13 @@
+{
+"version": 1,
+"themes": {
+"imp": {
+"name": "imp",
+"repo": "https://github.com/HiTman77/imp",
+"zip": "https://github.com/HiTman77/imp/archive/master.zip",
+"summary": "imp",
+"version": "1.0.1",
+"image": "https://raw.githubusercontent.com/HiTman77/imp/main/preview.jpg"
+}
+}
+}
